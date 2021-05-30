@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@aidi-inu/aidi-token-list@^1.0.2":
-  "integrity" "sha512-zK3DlJU+IDkVMAYcO4EIwZVrhZzz64rV3Ni/J90pNcSV4TdjpVLa6q0Apn6pQYZGC4CedQ8Su3l8IT/K/6q8sw=="
-  "resolved" "https://registry.npmjs.org/@aidi-inu/aidi-token-list/-/aidi-token-list-1.0.2.tgz"
-  "version" "1.0.2"
+"@aidi-inu/aidi-token-list@^1.0.4":
+  "integrity" "sha512-pL/4uXK4iBtaezNXst1hRTZdLd3+zZFxb1/QI6L2wUE4SnqqUzBYpBFy/TlFEr2HwUhiMLG7vZF3ZIyU1SknKw=="
+  "resolved" "https://registry.npmjs.org/@aidi-inu/aidi-token-list/-/aidi-token-list-1.0.4.tgz"
+  "version" "1.0.4"
   dependencies:
     "np" "^7.5.0"
 

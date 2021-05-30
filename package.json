@@ -122,6 +122,6 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@aidi-inu/aidi-token-list": "^1.0.2"
+    "@aidi-inu/aidi-token-list": "^1.0.4"
   }
 }
