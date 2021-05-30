@@ -1,7 +1,7 @@
 {
   "name": "@aidiswap/interface",
   "description": "AidiSwap Interface",
-  "homepage": ".",
+  "homepage": "https://aidiinu.finance/exchange",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
@@ -122,6 +122,6 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@aidi-inu/aidi-token-list": "^1.0.6"
+    "@aidi-inu/aidi-token-list": "^1.0.8"
   }
 }
