@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/interface",
-  "description": "Uniswap Interface",
+  "name": "@aidiswap/interface",
+  "description": "AidiSwap Interface",
   "homepage": ".",
   "private": true,
   "devDependencies": {
@@ -122,6 +122,6 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@aidi-inu/aidi-token-list": "^1.0.4"
+    "@aidi-inu/aidi-token-list": "^1.0.6"
   }
 }
