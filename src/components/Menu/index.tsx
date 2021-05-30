@@ -117,7 +117,7 @@ export default function Menu() {
             <MessageCircle size={14} />
             Telegram
           </MenuItem>
-          <MenuItem id="link" href="https://uniswap.info/">
+          <MenuItem id="link" href="https://v2.info.uniswap.org/token/0xdA1E53E088023Fe4D1DC5a418581748f52CBd1b8">
             <PieChart size={14} />
             Analytics
           </MenuItem>
